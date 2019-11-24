@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1574468052000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.8.1",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.8,
+                "place": "51km SSE of Warm Springs, Nevada",
+                "time": 1574467415940,
+                "updated": 1574467620272,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00711437",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00711437.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 10,
+                "net": "nn",
+                "code": "00711437",
+                "ids": ",nn00711437,",
+                "sources": ",nn,",
+                "types": ",geoserve,origin,phase-data,",
+                "nst": 7,
+                "dmin": 0.574,
+                "rms": 0.3,
+                "gap": 161.95,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.8 - 51km SSE of Warm Springs, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.0577,
+                    37.7927,
+                    5
+                ]
+            },
+            "id": "nn00711437"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.95,
+                "place": "9km NNE of Cabazon, CA",
+                "time": 1574467159670,
+                "updated": 1574467380143,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39202328",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39202328.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 14,
+                "net": "ci",
+                "code": "39202328",
+                "ids": ",ci39202328,",
+                "sources": ",ci,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 26,
+                "dmin": 0.05879,
+                "rms": 0.21,
+                "gap": 113,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.0 - 9km NNE of Cabazon, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7541667,
+                    33.9966667,
+                    11.4
+                ]
+            },
+            "id": "ci39202328"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.9,
+                "place": "50km SSE of Warm Springs, Nevada",
+                "time": 1574466695110,
+                "updated": 1574467482561,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00711435",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00711435.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 12,
+                "net": "nn",
+                "code": "00711435",
+                "ids": ",nn00711435,",
+                "sources": ",nn,",
+                "types": ",geoserve,origin,phase-data,",
+                "nst": 7,
+                "dmin": 0.588,
+                "rms": 0.24,
+                "gap": 168.97,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.9 - 50km SSE of Warm Springs, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.0655,
+                    37.8018,
+                    4.8
+                ]
+            },
+            "id": "nn00711435"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.62,
+                "place": "18km ESE of Little Lake, CA",
+                "time": 1574466642400,
+                "updated": 1574466866512,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39202320",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39202320.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 6,
+                "net": "ci",
+                "code": "39202320",
+                "ids": ",ci39202320,",
+                "sources": ",ci,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 12,
+                "dmin": 0.07899,
+                "rms": 0.09,
+                "gap": 63,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.6 - 18km ESE of Little Lake, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.7171667,
+                    35.8903333,
+                    5.76
+                ]
+            },
+            "id": "ci39202320"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.57,
+                "place": "20km ESE of Little Lake, CA",
+                "time": 1574466347860,
+                "updated": 1574466564553,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39202304",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39202304.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 5,
+                "net": "ci",
+                "code": "39202304",
+                "ids": ",ci39202304,",
+                "sources": ",ci,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 7,
+                "dmin": 0.07934,
+                "rms": 0.08,
+                "gap": 104,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.6 - 20km ESE of Little Lake, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.7041667,
+                    35.8708333,
+                    7.45
+                ]
+            },
+            "id": "ci39202304"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.67,
+                "place": "32km N of Searles Valley, CA",
+                "time": 1574465992950,
+                "updated": 1574466629290,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39202296",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39202296.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 43,
+                "net": "ci",
+                "code": "39202296",
+                "ids": ",ci39202296,",
+                "sources": ",ci,",
+                "types": ",focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 27,
+                "dmin": 0.1826,
+                "rms": 0.16,
+                "gap": 80,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.7 - 32km N of Searles Valley, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3895,
+                    36.0523333,
+                    0.89
+                ]
+            },
+            "id": "ci39202296"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.9,
+                "place": "53km SSE of Warm Springs, Nevada",
+                "time": 1574465750520,
+                "updated": 1574466083779,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00711431",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00711431.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 12,
+                "net": "nn",
+                "code": "00711431",
+                "ids": ",nn00711431,",
+                "sources": ",nn,",
+                "types": ",geoserve,origin,phase-data,",
+                "nst": 10,
+                "dmin": 0.583,
+                "rms": 0.24,
+                "gap": 170.84,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.9 - 53km SSE of Warm Springs, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.0483,
+                    37.7835,
+                    4.9
+                ]
+            },
+            "id": "nn00711431"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.69,
+                "place": "22km SSW of La Quinta, CA",
+                "time": 1574465549210,
+                "updated": 1574465775321,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39202280",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39202280.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 7,
+                "net": "ci",
+                "code": "39202280",
+                "ids": ",ci39202280,",
+                "sources": ",ci,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 24,
+                "dmin": 0.03215,
+                "rms": 0.24,
+                "gap": 79,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.7 - 22km SSW of La Quinta, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.4255,
+                    33.4911667,
+                    9.3
+                ]
+            },
+            "id": "ci39202280"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.79,
+                "place": "7km NW of The Geysers, CA",
+                "time": 1574465048990,
+                "updated": 1574466244267,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73307611",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73307611.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 10,
+                "net": "nc",
+                "code": "73307611",
+                "ids": ",nc73307611,",
+                "sources": ",nc,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 18,
+                "dmin": 0.00888,
+                "rms": 0.02,
+                "gap": 84,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.8 - 7km NW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8198318,
+                    38.8188324,
+                    2.67
+                ]
+            },
+            "id": "nc73307611"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.9,
+                "place": "62km SSE of Warm Springs, Nevada",
+                "time": 1574464742705,
+                "updated": 1574467820634,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00711423",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00711423.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 56,
+                "net": "nn",
+                "code": "00711423",
+                "ids": ",nn00711423,",
+                "sources": ",nn,",
+                "types": ",geoserve,origin,phase-data,",
+                "nst": 23,
+                "dmin": 0.207,
+                "rms": 0.2131,
+                "gap": 92.89,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.9 - 62km SSE of Warm Springs, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.9952,
+                    37.7084,
+                    12.4
+                ]
+            },
+            "id": "nn00711423"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "86km SE of Pondaguitan, Philippines",
+                "time": 1574464681142,
+                "updated": 1574465862040,
+                "tz": 480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006c02",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70006c02.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "70006c02",
+                "ids": ",us70006c02,",
+                "sources": ",us,",
+                "types": ",geoserve,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.691,
+                "rms": 0.68,
+                "gap": 82,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 86km SE of Pondaguitan, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.803,
+                    5.8869,
+                    102.88
+                ]
+            },
+            "id": "us70006c02"
+        }
+    ],
+    "bbox": [
+        -122.8198318,
+        5.8869,
+        0.89,
+        126.803,
+        38.8188324,
+        102.88
+    ]
+}
